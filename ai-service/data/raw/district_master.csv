@@ -1,0 +1,26 @@
+district_id,district_name,province,latitude,longitude,climate_zone
+1,Colombo,Western,6.9271,79.8612,Wet
+2,Gampaha,Western,7.0873,79.9994,Wet
+3,Kalutara,Western,6.5854,79.9607,Wet
+4,Kandy,Central,7.2906,80.6337,Intermediate
+5,Matale,Central,7.4675,80.6234,Intermediate
+6,Nuwara Eliya,Central,6.9497,80.7891,Upcountry
+7,Galle,Southern,6.0535,80.221,Wet
+8,Matara,Southern,5.9549,80.555,Wet
+9,Hambantota,Southern,6.1241,81.1185,Dry
+10,Jaffna,Northern,9.6615,80.0255,Dry
+11,Kilinochchi,Northern,9.3803,80.376,Dry
+12,Mannar,Northern,8.9807,79.9042,Dry
+13,Vavuniya,Northern,8.7514,80.4971,Dry
+14,Mullaitivu,Northern,9.2671,80.8142,Dry
+15,Batticaloa,Eastern,7.717,81.7,Dry
+16,Ampara,Eastern,7.2975,81.682,Dry
+17,Trincomalee,Eastern,8.5874,81.2152,Dry
+18,Kurunegala,North Western,7.4863,80.3647,Intermediate
+19,Puttalam,North Western,8.0362,79.8283,Dry
+20,Anuradhapura,North Central,8.3114,80.4037,Dry
+21,Polonnaruwa,North Central,7.9403,81.0188,Dry
+22,Badulla,Uva,6.9934,81.055,Upcountry
+23,Monaragala,Uva,6.8728,81.3507,Dry
+24,Ratnapura,Sabaragamuwa,6.6828,80.3992,Wet
+25,Kegalle,Sabaragamuwa,7.2513,80.3464,Wet
